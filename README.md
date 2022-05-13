@@ -1,3 +1,5 @@
 # Docker-Basic-Command
 
-#Docek History
+# Chack version
+docker version
+
